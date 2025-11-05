@@ -1,5 +1,5 @@
 # ZingMp3 API
-
+ 
 ## Giới thiệu
 Dự án cung cấp các hàm gọi API Zing MP3 kèm server Express và UI HTML đơn giản để test nhanh.
 - Thư viện chính: `src/index.ts` (đã build sẵn sang `dist/index.js`)
@@ -71,5 +71,6 @@ curl "http://localhost:5555/api/search?q=l%E1%BA%A1c%20tr%C3%B4i"
 ## Bản quyền
 - Dựa trên module gốc: [ZingMp3API]
 - Dự án hiện tại dùng cho mục đích học tập/khảo sát API.
+
 
 
